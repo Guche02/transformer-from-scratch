@@ -16,4 +16,4 @@ This repository implements a Transformer model from scratch, following the origi
 
 ## Usage
 
-** simply clone the repo and run train.py file **
+**simply clone the repo and run train.py file**
